@@ -1,0 +1,2 @@
+com/teamtreehouse/giflib/AppConfig.java
+ com.teamtreehouse.giflib.AppConfig
